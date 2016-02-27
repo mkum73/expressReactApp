@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "product_details": {
+      "img_url": "/placeholder.png",
+      "product_name": "T shirt",
+      "offer_price": 742,
+      "price": 4200,
+      "offer": "10%",
+      "rating": 4
+    }
+  },
+  {
+    "id": "2",
+    "product_details": {
+      "img_url": "/placeholder.png",
+      "product_name": "T shirt",
+      "offer_price": 742,
+      "price": 4200,
+      "offer": "10%",
+      "rating": 4
+    }
+  },
+  {
+    "id": "3",
+    "product_details": {
+      "img_url": "/placeholder.png",
+      "product_name": "T shirt",
+      "offer_price": 742,
+      "price": 4200,
+      "offer": "10%",
+      "rating": 4
+    }
+  },
+  {
+    "id": "4",
+    "product_details": {
+      "img_url": "/placeholder.png",
+      "product_name": "T shirt",
+      "offer_price": 742,
+      "price": 4200,
+      "offer": "10%",
+      "rating": 4
+    }
+  },
+  {
+    "id": "5",
+    "product_details": {
+      "img_url": "/placeholder.png",
+      "product_name": "T shirt",
+      "offer_price": 742,
+      "price": 4200,
+      "offer": "10%",
+      "rating": 4
+    }
+  },
+  {
+    "id": "6",
+    "product_details": {
+      "img_url": "/placeholder.png",
+      "product_name": "T shirt",
+      "offer_price": 742,
+      "price": 4200,
+      "offer": "10%",
+      "rating": 4
+    }
+  }
+]

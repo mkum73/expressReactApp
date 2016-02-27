@@ -1,0 +1,34 @@
+[
+  {
+    "name": "orthodontics",
+    "subcategories": [
+      "Adhesives",
+      "Brackets",
+      "Bands"
+    ]
+  },
+  {
+    "name": "endodontics",
+    "subcategories": [
+      "Biochemical Preparation",
+      "Temporary Filling Material",
+      "Obturation"
+    ]
+  },
+  {
+    "name": "conservatives",
+    "subcategories": [
+      "Bonds Etchants",
+      "Cements",
+      "Composite"
+    ]
+  },
+  {
+    "name": "oral surgery",
+    "subcategories": [
+      "Plating Systems",
+      "Instrument kits",
+      "Extraction Instrument"
+    ]
+  }
+]

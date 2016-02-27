@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "img_url": "placeholder.png",
+    "product_name": "T shirt",
+    "offer_price": 456,
+    "price": 1340,
+    "offer": "10%",
+    "rating": 1
+  },
+  {
+    "id": 2,
+    "img_url": "placeholder.png",
+    "product_name": "Jeans",
+    "offer_price": 458,
+    "price": 1360,
+    "offer": "10%",
+    "rating": 2
+  },
+  {
+    "id": 3,
+    "img_url": "placeholder.png",
+    "product_name": "Shocks",
+    "offer_price": 460,
+    "price": 1380,
+    "offer": "10%",
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "img_url": "placeholder.png",
+    "product_name": "tees",
+    "offer_price": 462,
+    "price": 1400,
+    "offer": "10%",
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "img_url": "placeholder.png",
+    "product_name": "pant",
+    "offer_price": 464,
+    "price": 1420,
+    "offer": "10%",
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "img_url": "placeholder.png",
+    "product_name": "short",
+    "offer_price": 466,
+    "price": 1440,
+    "offer": "10%",
+    "rating": 1
+  },
+  {
+    "id": 7,
+    "img_url": "placeholder.png",
+    "product_name": "sdjahda",
+    "offer_price": 468,
+    "price": 1460,
+    "offer": "10%",
+    "rating": 2
+  },
+  {
+    "id": 8,
+    "img_url": "placeholder.png",
+    "product_name": "sdgfd",
+    "offer_price": 470,
+    "price": 1480,
+    "offer": "10%",
+    "rating": 3
+  },
+  {
+    "id": 9,
+    "img_url": "placeholder.png",
+    "product_name": "trtrtert",
+    "offer_price": 472,
+    "price": 1500,
+    "offer": "10%",
+    "rating": 4
+  },
+  {
+    "id": 10,
+    "img_url": "placeholder.png",
+    "product_name": "ghhgfhgf",
+    "offer_price": 474,
+    "price": 1520,
+    "offer": "10%",
+    "rating": 5
+  },
+  {
+    "id": 11,
+    "img_url": "placeholder.png",
+    "product_name": "tytry",
+    "offer_price": 476,
+    "price": 1540,
+    "offer": "10%",
+    "rating": 4
+  },
+  {
+    "id": 12,
+    "img_url": "placeholder.png",
+    "product_name": "ghjgjhj",
+    "offer_price": 478,
+    "price": 1560,
+    "offer": "10%",
+    "rating": 4
+  },
+  {
+    "id": 13,
+    "img_url": "placeholder.png",
+    "product_name": "hgjhgjht",
+    "offer_price": 480,
+    "price": 1580,
+    "offer": "10%",
+    "rating": 4
+  },
+  {
+    "id": 14,
+    "img_url": "placeholder.png",
+    "product_name": "tryrtyrty",
+    "offer_price": 482,
+    "price": 1600,
+    "offer": "10%",
+    "rating": 4
+  },
+  {
+    "id": 15,
+    "img_url": "placeholder.png",
+    "product_name": "nhgjhgj",
+    "offer_price": 484,
+    "price": 1620,
+    "offer": "10%",
+    "rating": 4
+  },
+  {
+    "id": 16,
+    "img_url": "placeholder.png",
+    "product_name": "T shirt",
+    "offer_price": 486,
+    "price": 1640,
+    "offer": "10%",
+    "rating": 4
+  },
+  {
+    "id": 17,
+    "img_url": "placeholder.png",
+    "product_name": "Jeans",
+    "offer_price": 488,
+    "price": 1660,
+    "offer": "10%",
+    "rating": 4
+  },
+  {
+    "id": 18,
+    "img_url": "placeholder.png",
+    "product_name": "Shocks",
+    "offer_price": 490,
+    "price": 1680,
+    "offer": "10%",
+    "rating": 4
+  },
+  {
+    "id": 19,
+    "img_url": "placeholder.png",
+    "product_name": "tees",
+    "offer_price": 492,
+    "price": 1700,
+    "offer": "10%",
+    "rating": 4
+  },
+  {
+    "id": 20,
+    "img_url": "placeholder.png",
+    "product_name": "pant",
+    "offer_price": 494,
+    "price": 1720,
+    "offer": "10%",
+    "rating": 4
+  },
+  {
+    "id": 21,
+    "img_url": "placeholder.png",
+    "product_name": "short",
+    "offer_price": 496,
+    "price": 1740,
+    "offer": "10%",
+    "rating": 4
+  },
+  {
+    "id": 22,
+    "img_url": "placeholder.png",
+    "product_name": "sdjahda",
+    "offer_price": 498,
+    "price": 1760,
+    "offer": "10%",
+    "rating": 4
+  },
+  {
+    "id": 23,
+    "img_url": "placeholder.png",
+    "product_name": "sdgfd",
+    "offer_price": 500,
+    "price": 1780,
+    "offer": "10%",
+    "rating": 4
+  },
+  {
+    "id": 24,
+    "img_url": "placeholder.png",
+    "product_name": "trtrtert",
+    "offer_price": 502,
+    "price": 1800,
+    "offer": "10%",
+    "rating": 4
+  }
+]
