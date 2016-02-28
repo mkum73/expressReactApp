@@ -19,11 +19,12 @@ var ProductComponent = React.createClass({
   },
 
   render: function() {
-    var productDetail = this.state.productDetail;
+    var productDetail = this.state.productDetail,
+        imgSrc = '/images/' + productDetail.img_url;
     return (
        <div className="product-page">
           <div className="product-img">
-            <img src={productDetail.img_url}/>
+            <img src={imgSrc}/>
           </div>
           <ul className="product-detail">
             <li className="product_name">
@@ -52,4 +53,4 @@ var ProductComponent = React.createClass({
     );
   }
 });
-ReactDOM.render(<ProductComponent source='/productByID.json' />, content);
+ReactDOM.render(<ProductComponent source='/jsondata/productByID.json' />, content);

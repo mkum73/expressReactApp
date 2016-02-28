@@ -17,12 +17,13 @@ var ProductList = React.createClass({
     this.serverRequest.abort();
   },
   iterateList: function(product) {
-    var href = '/productPage/:' + product.id;
+    var href = '/productPage/:' + product.id,
+        imgSrc = '/images/' + product.img_url;
     return(
       <li className="product">
         <a href={href}>
           <div className="product-img">
-            <img src={product.img_url}/>
+            <img src={imgSrc} />
           </div>
           <ul className="product-detail">
             <li className="product_name">
@@ -60,6 +61,6 @@ var ProductList = React.createClass({
 });
 
 ReactDOM.render(
-  <ProductList source="/products.json" />,
+  <ProductList source="/jsondata/products.json" />,
   content
 );

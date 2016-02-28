@@ -21,7 +21,7 @@ var CategoryList = React.createClass({
       <li>
         <a href="/product">
           <div className="category-img">
-            <img src="category.png" />
+            <img src="images/category.png" />
           </div>
           <div className="category-description">
             <h3>{category.name}</h3>
@@ -50,6 +50,6 @@ var CategoryList = React.createClass({
 });
 
 ReactDOM.render(
-  <CategoryList source="/category.json" />,
+  <CategoryList source="/jsondata/category.json" />,
   categories
 );

@@ -2,9 +2,9 @@
 
 var express = require('express');
 var app = new express();
-
+app.set('view engine', 'ejs');
 app.get('/',function(req,res){
-	res.render('./../app/index.ejs',{});
+	res.render('./../app/views/index.ejs',{});
 })
 
 app.use(express.static(__dirname + '/../temp'))

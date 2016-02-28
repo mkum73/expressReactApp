@@ -129,3 +129,24 @@ body{
     padding: 40px;
     border-bottom: 1px solid #C2BEBE;
 }
+.search-box{
+	position: fixed;
+	top:140px;
+	z-index: 1;
+	width: 100%;    
+	background: #fff;
+	display: none;
+	padding-bottom: 55px;
+}
+.search-box input{
+	width: 100%;
+    position: relative;
+    font-size: 46px;
+    padding: 30px 40px;
+    border: 1px solid #B7B1B1;
+}
+.search-box .suggestion-list li{
+	    padding: 20px 30px;
+    font-size: 38px;
+    color: #ccc;
+}

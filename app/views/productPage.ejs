@@ -1,0 +1,18 @@
+<% include ../views/partials/header %>
+
+   <div class="page-wrapper">
+    <div id="content">
+        <img src="/images/ripple.svg" class="loading-icon"/>
+    </div>
+    <div class="buy-btn">
+      <a href="#" class="add-cart">Add to cart</a>
+      <a href="#" class="buy-now">Buy now</a>    
+    </div>
+  <script>
+  var productId = <%-JSON.stringify(productID)%>
+  productId = productId.replace(':','');
+  </script>
+  </div>
+  <script type="text/babel" src="/components/productComponent.js"></script>
+   
+<% include ../views/partials/footer %>

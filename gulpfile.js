@@ -13,7 +13,7 @@ gulp.task('live-server',function(){
 
 gulp.task('serve', ['live-server'], function() {
 	browserSync.init(null, {
-		proxy: "http://localhost:7777",
+		proxy: "http://localhost:3000",
 		port: 9001
 	});
 });
