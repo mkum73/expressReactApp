@@ -1,4 +1,3 @@
-console.log(productId);
 var ProductComponent = React.createClass({
   getInitialState: function() {
     return {

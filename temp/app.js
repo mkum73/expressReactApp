@@ -16,6 +16,9 @@ var slideMenu = function(elem,intialState,finalState){
 		},800);
 	}
 }
+
+            
+
 $('.navbar-header .fa-bars').on('click',function(event) {
 	event.preventDefault();
 	slideMenu($('.side-menu'),0,'85%');
@@ -30,4 +33,30 @@ $('.navbar-header .fa-search').on('click',function(event) {
 	event.preventDefault();
 	$('.search-box').slideDown(500);
 });
+
+
+$('.add-cart').on('click',function(event){
+	event.preventDefault();
+	addToCart(productId);
+});
+
+	var cartItems = [];
+var addToCart = function(){
+	cartItems.push(getProductDetails(productId));
+};
+
+
+
+var getProductDetails = function(productId){
+	var product_details = {
+      "img_url": "placeholder.png",
+      "product_name": "T shirt",
+      "offer_price": 742,
+      "price": 4200,
+      "offer": "10%",
+      "rating": 4
+    }
+    product_details = JSON.stringify(product_details);
+    return product_details;
+};
 
