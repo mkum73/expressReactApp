@@ -41,5 +41,3 @@ $('.navbar-header .fa-search').on('click',function(event) {
 	}
 });
 
-
-

@@ -1,8 +1,8 @@
 <!doctype html>
 <html>
   <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Grocery Listify</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/product.css">
     <link rel="stylesheet" href="/css/font-awesome.min.css">
@@ -12,35 +12,42 @@
     <script src="/lib/jquery.min.js"></script>
   </head>
   <body>
-    
-
-      <div class="navbar-header">
+   <div class="navbar-header">
         <a href="#" class="fa fa-bars"></a>
         <a href="/" class="logo">ShoppingKart</a>
         <a href="#" class="fa fa-shopping-cart"></a>
         <a href="#" class="fa fa-search"></a>
       </div>
-      <div class="overlay-cont">
-        <ul class="side-menu">
-           <li>Login</li>
-           <li>Register</li>
-           <li>Categories</li>
-           <li>Blogs</li>
-           <li>About us</li>
-        </ul>
-        <div class="shopping-cart-box" id="shoppingCart">
+    <div class="overlay-cont">
+      <ul class="side-menu">
+         <li>
+          <a href="/login">Login</a>
+        </li>
+        <li>
+         <a href="#">Register</a>
+        </li>
+        <li>
+          <a href="/categories">Categories</a>
+        </li>
+        <li>
+            <a href="#">Blogs<a/>
+        </li>
+        <li>
+          <a href="/aboutus">About us</a>
+        </li>
+      </ul>
+      <ul class="shopping-cart-box" id="shoppingCartBox">
 
-        </div>
+       </ul>
 
-        <div class="search-box">
-           <input type='text' placeholder="search">
-           <ul class="suggestion-list">
-             <li>Suggestion 1</li>
-             <li>Suggestion 2</li>
-             <li>Suggestion 3</li>
-             <li>Suggestion 4</li>
-           </ul>
-        </div>
+      <div class="search-box">
+         <input type='text' placeholder="search">
+         <ul class="suggestion-list">
+           <li>Suggestion 1</li>
+           <li>Suggestion 2</li>
+           <li>Suggestion 3</li>
+           <li>Suggestion 4</li>
+         </ul>
       </div>
-
-
+</div>
+ 

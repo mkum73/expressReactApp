@@ -1,7 +1,7 @@
 
 module.exports = function(app){
 
-
+	
 	app.route('/product')
 	.get(function(req,res){
 		res.render('./../app/views/product.ejs',{});
@@ -11,5 +11,15 @@ module.exports = function(app){
 	.get(function(req,res){
 		res.render('./../app/views/productPage.ejs', { 'productID' : req.params.id });
 	})
+
+	app.route('/login')
+	.get(function(req,res){
+		res.render('./../app/views/login.ejs', {});
+	})
+
+
+
+
+	
 }
 
